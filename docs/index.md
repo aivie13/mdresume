@@ -2,7 +2,7 @@
 layout: cv
 title: Aaron Ivie's Resume
 ---
-# Brigham Young
+# Aaron Ivie
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
